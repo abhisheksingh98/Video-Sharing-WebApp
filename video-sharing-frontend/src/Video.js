@@ -31,8 +31,8 @@ function Video() {
             src="https://www.youtube.com/watch?v=K64S2WrclJ0&list=PLl4Y2XuUavmtPZCKAth-Ktqtpy62vjNe3&index=4&frags=wn&ab_channel=CodingBlocks">
             </video>
 
-            <VideoFooter/>
-            <VideoSidebar/>
+            <VideoFooter channel = "abhishek" description = "this is desc" song = "Closer Chainsmokers" />
+            <VideoSidebar likes = {111} shares = {222} messages = {333} />
 
         </div>
     )
