@@ -1,4 +1,4 @@
-import mongoose, { mongo } from 'mongoose'
+import mongoose from 'mongoose'
 
 //Schema defines the data structure we need to use
 const tiktokSchema = mongoose.Schema({
